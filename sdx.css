@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url('https://i.imgur.com/pG5rE2u.jpg');
+	background-image: url('https://raw.githubusercontent.com/GrayAnimates/grayanimates.github.io/main/2poster.png');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -17,7 +17,7 @@ body:before {
 	top: 0;
 	left: 0;
 	z-index: 100;
-	background-image: url('https://media.giphy.com/media/LbSdXQbS0XVVC/giphy.gif');
+	background-image: url('https://raw.githubusercontent.com/GrayAnimates/grayanimates.github.io/main/sunk_aewsoke%20new.gif');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
